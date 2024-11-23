@@ -2,6 +2,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/54528db0-aec2-4f1e-8b21-8ca67b365844)
+
+
 ## **Project Overview** 📝  
 This project involves creating an interactive **Power BI dashboard** to analyze sales data for Blinkit, a last-minute grocery delivery service. The dashboard provides insights into sales performance across various metrics, enabling stakeholders to make data-driven decisions based on customer preferences, outlet characteristics, and historical trends.
 
